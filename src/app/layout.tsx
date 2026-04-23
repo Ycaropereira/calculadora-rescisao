@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://calculadora-rescisao.vercel.app"),
+  metadataBase: new URL("https://calculadora-rescisao-ten.vercel.app"),
   title: "Calculadora de Rescisão CLT",
   description:
     "Calculadora de rescisão CLT: simule saldo de salário, 13º proporcional, férias proporcionais + 1/3 e aviso prévio estimado.",
